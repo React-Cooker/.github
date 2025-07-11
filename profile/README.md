@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/220420894?s=96&v=4" alt="React Cooker Logo" width="150">
+ 
 </p>
 
 <h1 align="center">The React Cooker Operation</h1>
