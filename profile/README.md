@@ -19,8 +19,8 @@ This section tracks the progress of the initial 3-week sprint and the primary te
 </div>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f97316&bg_color=1c1917&text_color=fff&border_color=f97316&hide_border=true" alt="Sprint Status" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cengiz-mataraci&layout=compact&theme=radical&bg_color=1c1917&border_color=f97316&hide_border=true" alt="Top Languages" />
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakupozcan&layout=compact&theme=radical"/>
 </p>
 
 ---
