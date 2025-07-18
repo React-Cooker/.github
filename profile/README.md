@@ -1,45 +1,61 @@
 <p align="center">
- 
+  <img src="https://avatars.githubusercontent.com/u/220420894?s=400&u=466afd9a0f9cac2c8beaf988f6d06f9da85e6de6&v=4" alt="React Cooker Logo" width="150"/>
 </p>
 
-<h1 align="center">The React Cooker Operation</h1>
+<h1 align="center">Welcome to the React Cooker Operation 🍳</h1>
 
-<details open>
-<summary>🇬🇧 English Version</summary>
+<p align="center">
+  This organization is the headquarters for an intensive, project-driven learning operation. The philosophy is not just to complete tutorials, but to "cook" with code—combining different technologies and building real products with a focus on the React & React Native ecosystem.
+</p>
 
-### Welcome to My Learning Journey!
+---
 
-This organization documents my intensive, real-world learning operation to master the **React & React Native** ecosystem. This is more than just watching tutorials; it's about building, experimenting, and "cooking" with code.
+<div align="center">
 
-**Current Focus:**
-My primary focus right now is deepening my understanding of React fundamentals through a hands-on, complex project within the **Andromeda Web3 Bootcamp**.
+### 🔥 Sprint Status & Language Focus 🔥
 
-### Projects in Progress:
+This section tracks the progress of the initial 3-week sprint and the primary technologies being used.
 
-* **🪙 Community Vault (`community-vault-andromeda`)**
-    * **Description:** A decentralized community platform being developed for the Andromeda Bootcamp.
-    * **Tech Stack:** Next.js, React, TypeScript, Andromeda Protocol.
-    * **[View Repository](https://github.com/React-Cooker/andromeda-bootcamp-vault)**
+</div>
 
-</details>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f97316&bg_color=1c1917&text_color=fff&border_color=f97316&hide_border=true" alt="Sprint Status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cengiz-mataraci&layout=compact&theme=radical&bg_color=1c1917&border_color=f97316&hide_border=true" alt="Top Languages" />
+</p>
 
-<br>
+---
 
-<details>
-<summary>🇹🇷 Türkçe Versiyon</summary>
+## 🎯 Operation Checklist & Status
 
-### Öğrenme Yolculuğuma Hoş Geldiniz!
+This checklist tracks the progress of the initial sprint.
 
-Bu organizasyon, **React ve React Native** ekosisteminde uzmanlaşmak için yürüttüğüm yoğun ve uygulamalı öğrenme operasyonumu belgelemektedir. Bu, sadece video izlemenin ötesinde; kodla inşa etme, deneme ve "pişirme" sürecidir.
+#### ✅ **Phase 1: Foundations (Completed)**
+- `[x]` 🎓 **Andromeda Bootcamp:** Submitted a working Web3 project with React. *(Awaiting results)*
+- `[x]` 📚 **BTK Academy Courses:** All video content has been watched. *(Certification exams scheduled for post-sprint)*
+- `[x]` 🛠️ **JavaScript Fundamentals:** Completed the entire JS section of the Patika course.
+- `[x]` 🏛️ **Portfolio Infrastructure:**
+  - `[x]` Created the **[React-Cooker](https://github.com/React-Cooker)** GitHub organization.
+  - `[x]` Set up the **[hackerrank-solutions](https://github.com/Cengiz-mataraci/hackerrank-solutions)** repository for algorithmic challenges.
+  - `[x]` Set up the **[js-todo-app](https://github.com/React-Cooker/js-todo-app)** repository for the advanced JS project.
+  - `[x]` Set up the **[react-kitchen](https://github.com/React-Cooker/react-kitchen)** repository for React fundamental practices.
 
-**Şu Anki Odak:**
-Mevcut önceliğim, **Andromeda Web3 Bootcamp**'i kapsamında, uygulamalı ve karmaşık bir proje geliştirerek React temellerimi derinleştirmektir.
+#### ⏳ **Phase 2: Core Development (In Progress)**
+- `[ ]` 📜 **Complete React Native Patika**
+  - `[x]` Advanced GIT Module
+  - `[ ]` **React & React Native Fundamentals**
+  - `[ ]` State and Lifecycle
+  - `[ ]` Navigation
+  - `[ ]` Web API
+  - `[ ]` ... (Other modules)
+- `[ ]` 🚀 **Develop the To-Do App for Play Store**
+  - *(Strategy: This will be completed as part of the Patika curriculum)*
 
-### Geliştirilen Projeler:
+#### 🎯 **Phase 3: Finalization (Upcoming)**
+- `[ ]` 📱 **Publish the To-Do App to Google Play Store**
+- `[ ]` 📜 **Acquire BTK Academy Certificates (3x)**
 
-* **🪙 Topluluk Kasası (`community-vault-andromeda`)**
-    * **Açıklama:** Andromeda Bootcamp için geliştirilen merkeziyetsiz bir topluluk platformu.
-    * **Teknolojiler:** Next.js, React, TypeScript, Andromeda Protocol.
-    * **[Projeyi Görüntüle](https://github.com/React-Cooker/andromeda-bootcamp-vault)**
+---
 
-</details>
+<p align="center">
+  This entire journey is being built in public to create a strong, transparent developer portfolio. Follow along!
+</p>
