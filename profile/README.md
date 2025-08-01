@@ -75,3 +75,12 @@ This checklist tracks the progress of the initial sprint.
   <img width="1920" height="1080" alt="kfs rc" src="https://github.com/user-attachments/assets/c3fe598d-a91f-444d-a939-cf38a455af1f" />
 
 </p>
+
+<div align="left">
+  <p><a href="https://github.com/KodFikirSanat">Kod Fikir Sanat</a> ◥┣┓┓┓┓┓┓┓┓┓┓┓┓┓┓┓┓┓┓┓┓┓┓┓┓┓┓┓</p>
+  
+</div>
+<div align="right">
+  <p>┗┗┗┗┗┗┗┗┗┗┗┗┗┗┗┗┗┗┗┗┗┗┗┗┗┗┗┫◣ <a href="https://github.com/React-Cooker">React Cooker</a></p>
+   
+</div>
