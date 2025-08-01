@@ -6,7 +6,9 @@
 
 <p align="center">
   This organization is the headquarters for an intensive, project-driven learning operation. The philosophy is not just to complete tutorials, but to "cook" with code—combining different technologies and building real products with a focus on the React & React Native ecosystem.
+  
 </p>
+<p align="center"> Sprint initiated: 10.07.2025 </p>
 
 ---
 
@@ -14,12 +16,11 @@
 
 ### 🔥 Sprint Status & Language Focus 🔥
 
-This section tracks the progress of the initial 3-week sprint and the primary technologies being used.
+This section tracks the current operational phase, with a primary focus on the project development for [Kod Fikir Sanat](https://github.com/KodFikirSanat).
 
 </div>
 
 <p align="center">
- 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakupozcan&layout=compact&theme=radical"/>
 </p>
 
@@ -30,32 +31,49 @@ This section tracks the progress of the initial 3-week sprint and the primary te
 This checklist tracks the progress of the initial sprint.
 
 #### ✅ **Phase 1: Foundations (Completed)**
-- `[x]` 🎓 **Andromeda Bootcamp:** Submitted a working Web3 project with React. *(Awaiting results)*
-- `[x]` 📚 **BTK Academy Courses:** All video content has been watched. *(Certification exams scheduled for post-sprint)*
+- `[x]` 🎓 **Andromeda Bootcamp:** [Submitted](https://github.com/yakupozcan/andromeda-bootcamp-submission) a working Web3 project with React.
+- `[x]` 📚 **BTK Academy Courses Watched:**
+  - `[x]` [REACT ile Web Programcılığı](https://www.btkakademi.gov.tr/portal/course/react-ile-web-programciligi-10035)
+  - `[x]` [React JS](https://www.btkakademi.gov.tr/portal/course/react-js-39531)
+  - `[x]` [React Js İleri Seviye](https://www.btkakademi.gov.tr/portal/course/react-js-ileri-seviye-44054)
 - `[x]` 🛠️ **JavaScript Fundamentals:** Completed the entire JS section of the Patika course.
 - `[x]` 🏛️ **Portfolio Infrastructure:**
-  - `[x]` Created the **[React-Cooker](https://github.com/React-Cooker)** GitHub organization.
-  - `[x]` Set up the **[hackerrank-solutions](https://github.com/Cengiz-mataraci/hackerrank-solutions)** repository for algorithmic challenges.
-  - `[x]` Set up the **[js-todo-app](https://github.com/React-Cooker/js-todo-app)** repository for the advanced JS project.
-  - `[x]` Set up the **[react-kitchen](https://github.com/React-Cooker/react-kitchen)** repository for React fundamental practices.
+  - `[x]` Joined the **[KodFikirSanat](https://github.com/KodFikirSanat)** GitHub organization.
+  - `[x]` Set up **[hackerrank-solutions](https://github.com/Cengiz-mataraci/hackerrank-solutions)** repository for algorithmic challenges.
+  - `[x]` Set up **[musicApp](https://github.com/React-Cooker/musicApp)** repository.
+  - `[x]` Set up **[react-native-kitchen](https://github.com/React-Cooker/react-native-kitchen)** repository.
+  - `[x]` Set up **[pstore](https://github.com/React-Cooker/pstore)** repository.
+  - `[x]` Set up **[newsApp](https://github.com/React-Cooker/newsApp)** repository.
+  - `[x]` Set up **[asian-kitchen](https://github.com/React-Cooker/asian-kitchen)** repository.
+  - `[x]` ...and **[other repositories](https://github.com/orgs/React-Cooker/repositories)**.
 
 #### ⏳ **Phase 2: Core Development (In Progress)**
 - `[ ]` 📜 **Complete React Native Patika**
   - `[x]` Advanced GIT Module
-  - `[ ]` **React & React Native Fundamentals**
-  - `[ ]` State and Lifecycle
-  - `[ ]` Navigation
+  - `[x]` React & React Native Fundamentals
+  - `[x]` State and Lifecycle
+  - `[x]` Navigation
   - `[ ]` Web API
   - `[ ]` ... (Other modules)
-- `[ ]` 🚀 **Develop the To-Do App for Play Store**
-  - *(Strategy: This will be completed as part of the Patika curriculum)*
+- `[ ]` 🚀 **Develop [`BabyTrackerApp`](https://github.com/KodFikirSanat/BabyTrackerApp) for Kod Fikir Sanat**
+- `[ ]` 📱 **Develop a publish-ready app as part of the Patika curriculum**
 
 #### 🎯 **Phase 3: Finalization (Upcoming)**
-- `[ ]` 📱 **Publish the To-Do App to Google Play Store**
-- `[ ]` 📜 **Acquire BTK Academy Certificates (3x)**
+- `[ ]` 📜 **Acquire Certificates:**
+  - `[ ]` Andromeda Bootcamp Certificate
+  - `[ ]` Patika - React Native Course Certificate
+  - `[ ]` BTK Academy - REACT ile Web Programcılığı Certificate
+  - `[ ]` BTK Academy - React JS Certificate
+  - `[ ]` BTK Academy - React Js İleri Seviye Certificate
+- `[ ]` 📱 **Publish a Polished App to Google Play Store**
 
 ---
 
 <p align="center">
   This entire journey is being built in public to create a strong, transparent developer portfolio. Follow along!
+</p>
+
+<p align="center">
+  <img width="1920" height="1080" alt="kfs rc" src="https://github.com/user-attachments/assets/c3fe598d-a91f-444d-a939-cf38a455af1f" />
+
 </p>
