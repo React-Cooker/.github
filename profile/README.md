@@ -68,10 +68,8 @@ This checklist tracks the progress of the initial sprint.
 - `[ ]` 📱 **Publish a Polished App to Google Play Store**
 
 ---
+<h2 align="center">This entire journey is being built in public to create a strong, transparent developer portfolio. Follow along!</h2>
 
-<p align="center">
-  This entire journey is being built in public to create a strong, transparent developer portfolio. Follow along!
-</p>
 
 <p align="center">
   <img width="1920" height="1080" alt="kfs rc" src="https://github.com/user-attachments/assets/c3fe598d-a91f-444d-a939-cf38a455af1f" />
